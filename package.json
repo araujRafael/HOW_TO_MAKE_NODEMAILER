@@ -1,0 +1,8 @@
+{
+  "name": "nodemailer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/araujRafael/HOW_TO_MAKE_NODEMAILER.git",
+  "author": "araujRafael <araujodiniz1994@gmail.com>",
+  "license": "MIT"
+}
