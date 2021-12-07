@@ -2,6 +2,13 @@
   "name": "nodemailer",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "nodemailer": "^6.7.2"
+  },
   "repository": "https://github.com/araujRafael/HOW_TO_MAKE_NODEMAILER.git",
   "author": "araujRafael <araujodiniz1994@gmail.com>",
   "license": "MIT"
